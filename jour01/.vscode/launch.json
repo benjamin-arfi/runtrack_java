@@ -1,0 +1,121 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "somme",
+            "request": "launch",
+            "mainClass": "somme",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "chiffre",
+            "request": "launch",
+            "mainClass": "chiffre",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "chaine",
+            "request": "launch",
+            "mainClass": "chaine",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "heure",
+            "request": "launch",
+            "mainClass": "heure",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "nom",
+            "request": "launch",
+            "mainClass": "nom",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "MyString",
+            "request": "launch",
+            "mainClass": "MyString",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Facture",
+            "request": "launch",
+            "mainClass": "Facture",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "ExerciceVariables",
+            "request": "launch",
+            "mainClass": "ExerciceVariables",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Calcul",
+            "request": "launch",
+            "mainClass": "Calcul",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "DeclarationVariable",
+            "request": "launch",
+            "mainClass": "DeclarationVariable",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "HelloWord",
+            "request": "launch",
+            "mainClass": "HelloWord",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}
