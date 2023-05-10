@@ -1,0 +1,100 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "desCombinaison",
+            "request": "launch",
+            "mainClass": "desCombinaison",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "etoile",
+            "request": "launch",
+            "mainClass": "etoile",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "sumchiffre",
+            "request": "launch",
+            "mainClass": "sumchiffre",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "chiffrep",
+            "request": "launch",
+            "mainClass": "chiffrep",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "nbrchiffre",
+            "request": "launch",
+            "mainClass": "nbrchiffre",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "factorielle",
+            "request": "launch",
+            "mainClass": "factorielle",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "additionpair",
+            "request": "launch",
+            "mainClass": "additionpair",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "age",
+            "request": "launch",
+            "mainClass": "age",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "chiffrepair",
+            "request": "launch",
+            "mainClass": "chiffrepair",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "multiplication",
+            "request": "launch",
+            "mainClass": "multiplication",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "nombreinverse",
+            "request": "launch",
+            "mainClass": "nombreinverse",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "nombre",
+            "request": "launch",
+            "mainClass": "nombre",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}
