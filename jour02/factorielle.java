@@ -8,6 +8,7 @@ public class factorielle {
             long factorielle = 1;
             for (int i = 1; i <= chiffre; i++) {
                 factorielle *= i;
+                System.out.println(factorielle);
             }
     
             System.out.println("La factorielle du nombre " + chiffre + " est : " + factorielle);

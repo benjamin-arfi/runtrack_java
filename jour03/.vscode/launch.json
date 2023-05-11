@@ -1,0 +1,72 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "job08",
+            "request": "launch",
+            "mainClass": "job08",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "job07",
+            "request": "launch",
+            "mainClass": "job07",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "job06",
+            "request": "launch",
+            "mainClass": "job06",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "job05",
+            "request": "launch",
+            "mainClass": "job05",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "job04",
+            "request": "launch",
+            "mainClass": "job04",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "job03",
+            "request": "launch",
+            "mainClass": "job03",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "job02",
+            "request": "launch",
+            "mainClass": "job02",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "job01",
+            "request": "launch",
+            "mainClass": "job01",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}
