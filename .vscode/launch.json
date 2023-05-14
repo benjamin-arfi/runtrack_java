@@ -4,6 +4,13 @@
             "type": "java",
             "name": "job07",
             "request": "launch",
+            "mainClass": "job07",
+            "projectName": "runtrack_java_31084da4"
+        },
+        {
+            "type": "java",
+            "name": "job07",
+            "request": "launch",
             "mainClass": "jour04.job07.job07",
             "projectName": "runtrack_java_31084da4"
         },
