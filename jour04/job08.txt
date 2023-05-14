@@ -1,0 +1,13 @@
+Un fork bomb est une situation où un programme crée un grand nombre de processus fils,
+ qui eux-mêmes créent des processus fils, et ainsi de suite,
+  jusqu'à ce que le système soit saturé de processus et devienne inutilisable.
+
+En utilisant des threads de manière incorrecte, 
+il est possible de créer une situation similaire où un grand nombre de threads sont créés,
+ chacun consommant des ressources du système, et finalement saturant le système. 
+ Cela peut se produire si des threads sont créés à un rythme élevé sans être correctement 
+ gérés ou supprimés lorsqu'ils ne sont plus nécessaires, 
+ ou si les threads ne sont pas correctement synchronisés,
+  entraînant des problèmes de concurrence et une utilisation inefficace des ressources système.
+   En conséquence, il est important de prendre en compte la gestion des threads lors de la conception
+    et de l'implémentation de programmes multi-threadés afin d'éviter les situations de fork bomb.
