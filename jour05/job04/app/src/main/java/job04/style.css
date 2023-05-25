@@ -1,0 +1,25 @@
+
+.label {
+    -fx-text-fill: #008080; /* Couleur du texte */
+    -fx-font-size: 14pt; /* Taille de la police */
+    -fx-font-weight: bold; /* Gras */
+    -ms-flex-align: center;
+}
+
+.text-field {
+    -fx-background-color: #F0F8FF; /* Couleur de fond */
+    -fx-prompt-text-fill: #778899; /* Couleur du texte d'indication */
+    -fx-font-size: 14pt; /* Taille de la police */
+}
+
+.button {
+    -fx-background-color: #008080; /* Couleur de fond */
+    -fx-text-fill: white; /* Couleur du texte */
+    -fx-font-size: 14pt; /* Taille de la police */
+    -fx-font-weight: bold; /* Gras */
+    -fx-padding: 5 10; /* Espacement entre le texte et les bords du bouton */
+}
+
+.button:hover {
+    -fx-background-color: #00CED1; /* Couleur de fond au survol */
+}
