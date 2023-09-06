@@ -1,10 +1,10 @@
 {
-    "configurations": [
+    "configurations": [          
         {
             "type": "java",
             "name": "App",
             "request": "launch",
-            "mainClass": "job01.App",
+            "mainClass": "job04.App",
             "projectName": "app"
         },
         {

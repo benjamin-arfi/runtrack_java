@@ -4,8 +4,15 @@
             "type": "java",
             "name": "App",
             "request": "launch",
-            "mainClass": "job03.App",
-            "projectName": "app"
+            "mainClass": "job04.App",
+            "projectName": "job04-app"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "job02.App",
+            "projectName": "job02-app"
         },
         {
             "args": [

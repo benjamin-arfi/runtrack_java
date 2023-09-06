@@ -14,10 +14,6 @@ import javafx.stage.Stage;
 
 public class App extends Application {
 
-    public static void main(String[] args) {
-        launch();
-    }
-
     @Override
     public void start(Stage stage) {
         stage.setTitle("Fenêtre graphique");
@@ -44,6 +40,9 @@ public class App extends Application {
         Scene scene = new Scene(flowPane, 300, 100);
         stage.setScene(scene);
         stage.show();
+    }
+    public static void main(String[] args) {
+        launch();
     }
 }
 

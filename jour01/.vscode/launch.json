@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestFormes",
+            "request": "launch",
+            "mainClass": "TestFormes",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Etudiant",
+            "request": "launch",
+            "mainClass": "Etudiant",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "SimulationDes",
+            "request": "launch",
+            "mainClass": "SimulationDes",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "CompteBancaire",
+            "request": "launch",
+            "mainClass": "CompteBancaire",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Calculatrice",
+            "request": "launch",
+            "mainClass": "Calculatrice",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Voiture",
+            "request": "launch",
+            "mainClass": "Voiture",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
+            "name": "Job01",
+            "request": "launch",
+            "mainClass": "Job01",
+            "projectName": "jour01_ce3176ee"
+        },
+        {
+            "type": "java",
             "name": "somme",
             "request": "launch",
             "mainClass": "somme",
