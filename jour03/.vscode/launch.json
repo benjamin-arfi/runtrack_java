@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongueurChaineAvecOptional",
+            "request": "launch",
+            "mainClass": "Jour03.LongueurChaineAvecOptional",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "FiltrageAvecStream",
+            "request": "launch",
+            "mainClass": "Jour03.FiltrageAvecStream",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "Boite",
+            "request": "launch",
+            "mainClass": "Jour03.Boite",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "EtudiantsMap",
+            "request": "launch",
+            "mainClass": "Jour03.EtudiantsMap",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "MotsUniques",
+            "request": "launch",
+            "mainClass": "Jour03.MotsUniques",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
+            "name": "SommeNombresPairs",
+            "request": "launch",
+            "mainClass": "Jour03.SommeNombresPairs",
+            "projectName": "jour03_ce3176f0"
+        },
+        {
+            "type": "java",
             "name": "job08",
             "request": "launch",
             "mainClass": "job08",
