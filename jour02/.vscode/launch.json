@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionHandlingDemo",
+            "request": "launch",
+            "mainClass": "jour02.ExceptionHandlingDemo",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "TestInstruments",
+            "request": "launch",
+            "mainClass": "jour02.TestInstruments",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "Voiture",
+            "request": "launch",
+            "mainClass": "jour02.Voiture",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "DivisionDemo",
+            "request": "launch",
+            "mainClass": "jour02.DivisionDemo",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "TestAnimaux",
+            "request": "launch",
+            "mainClass": "jour02.TestAnimaux",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "TestNageurs",
+            "request": "launch",
+            "mainClass": "jour02.TestNageurs",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
+            "name": "TestComptes",
+            "request": "launch",
+            "mainClass": "jour02.TestComptes",
+            "projectName": "jour02_ce3176ef"
+        },
+        {
+            "type": "java",
             "name": "desCombinaison",
             "request": "launch",
             "mainClass": "desCombinaison",
