@@ -1,0 +1,65 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ThreadInterruptionExercice",
+            "request": "launch",
+            "mainClass": "ThreadInterruptionExercice",
+            "projectName": "jour04_ce3176f1"
+        },
+        {
+            "type": "java",
+            "name": "LockExercice",
+            "request": "launch",
+            "mainClass": "LockExercice",
+            "projectName": "jour04_ce3176f1"
+        },
+        {
+            "type": "java",
+            "name": "ExecutorServiceExercice",
+            "request": "launch",
+            "mainClass": "ExecutorServiceExercice",
+            "projectName": "jour04_ce3176f1"
+        },
+        {
+            "type": "java",
+            "name": "CallableFutureExercice",
+            "request": "launch",
+            "mainClass": "CallableFutureExercice",
+            "projectName": "jour04_ce3176f1"
+        },
+        {
+            "type": "java",
+            "name": "SynchronizationExercice",
+            "request": "launch",
+            "mainClass": "SynchronizationExercice",
+            "projectName": "jour04_ce3176f1"
+        },
+        {
+            "type": "java",
+            "name": "RunnableInterfaceExercice",
+            "request": "launch",
+            "mainClass": "RunnableInterfaceExercice",
+            "projectName": "jour04_ce3176f1"
+        },
+        {
+            "type": "java",
+            "name": "SimpleThreadExercice",
+            "request": "launch",
+            "mainClass": "SimpleThreadExercice",
+            "projectName": "jour04_ce3176f1"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        }
+    ]
+}
