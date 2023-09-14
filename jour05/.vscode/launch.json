@@ -2,24 +2,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "EtudiantsMap",
+            "name": "ArrayListArgumentExercice",
             "request": "launch",
-            "mainClass": "Jour03.EtudiantsMap",
+            "mainClass": "ArrayListArgumentExercice",
             "projectName": ""
-        },
-        {
-            "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "job04.App",
-            "projectName": "job04-app"
-        },
-        {
-            "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "job02.App",
-            "projectName": "job02-app"
         },
         {
             "args": [

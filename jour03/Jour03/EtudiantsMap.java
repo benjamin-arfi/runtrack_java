@@ -13,7 +13,7 @@ public class EtudiantsMap {
         etudiantsMap.put("23456", "Charlie");
         etudiantsMap.put("98765", "David");
         etudiantsMap.put("34567", "Eve");
-
+        
         // Afficher les étudiants par ordre de matricule
         System.out.println("Étudiants par ordre de matricule :");
         for (Map.Entry<String, String> entry : etudiantsMap.entrySet()) {
